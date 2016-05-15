@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>drum.png</file>
+        <file>background.jpg</file>
+        <file>Nice.png</file>
+        <file>gameback0.jpg</file>
+        <file>gameback1.jpg</file>
+        <file>gameback2.jpg</file>
+        <file>gameback.jpg</file>
+        <file>clearpic.jpg</file>
+        <file>failback.jpg</file>
+        <file>beatconti.png</file>
+        <file>beatconti2.png</file>
+        <file>beat.png</file>
+        <file>beat2.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>bgm.mp3</file>
+        <file>Fbeat.wav</file>
+        <file>Jbeat.wav</file>
+        <file>song2.mp3</file>
+        <file>combo.mp3</file>
+        <file>god.mp3</file>
+        <file>clear.mp3</file>
+        <file>contibeat.mp3</file>
+        <file>bgm2.1.mp3</file>
+        <file>gamebgm.mp3</file>
+    </qresource>
+</RCC>
